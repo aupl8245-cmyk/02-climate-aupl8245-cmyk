@@ -39,3 +39,14 @@ jupyter nbconvert <your-notebook-name>.ipynb --to markdown --no-input
 ```
 
 You can run it within your notebook as a `%%bash` cell, or in the terminal.
+
+## Climate Coding Challenge 🌍
+
+This 5-part project analyzes climate change in Boulder, CO using Python.
+
+- [Part 1](Climate%20Coding%20Challenge,%20Part%201.ipynb)  
+- [Part 2](Climate%20Coding%20Challenge,%20Part%202.ipynb)  
+- [Part 3](Climate%20Coding%20Challenge,%20Part%203.ipynb)  
+- [Part 4](Climate%20Coding%20Challenge,%20Part%204.ipynb)  
+- [Part 5](Climate%20Coding%20Challenge,%20Part%205.ipynb)
+
