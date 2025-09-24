@@ -40,13 +40,18 @@ jupyter nbconvert <your-notebook-name>.ipynb --to markdown --no-input
 
 You can run it within your notebook as a `%%bash` cell, or in the terminal.
 
-## Climate Coding Challenge 🌍
+## Climate Coding Challenge & Data Download 🌍
 
-This 5-part project analyzes climate change in Boulder, CO using Python.
+Before diving into the 5-part analysis, here’s the data retrieval notebook:
 
-- [Part 1](https://github.com/aupl8245-cmyk/02-climate-aupl8245-cmyk/blob/main/Climate%20Coding%20Challenge,%20Part%201.ipynb)  
-- [Part 2](https://github.com/aupl8245-cmyk/02-climate-aupl8245-cmyk/blob/main/Climate%20Coding%20Challenge,%20Part%202.ipynb)  
-- [Part 3](https://github.com/aupl8245-cmyk/02-climate-aupl8245-cmyk/blob/main/Climate%20Coding%20Challenge,%20Part%203.ipynb)  
-- [Part 4](https://github.com/aupl8245-cmyk/02-climate-aupl8245-cmyk/blob/main/Climate%20Coding%20Challenge,%20Part%204.ipynb)  
-- [Part 5](https://github.com/aupl8245-cmyk/02-climate-aupl8245-cmyk/blob/main/Climate%20Coding%20Challenge,%20Part%205.ipynb)
+- [Data Download (NCEI)](https://github.com/earthlab-education/02-climate-aupl8245-cmyk/blob/main/Download%20Climate%20Data%20(NCEI).ipynb)
+
+Then the main analysis:
+
+- [Part 1](https://github.com/earthlab-education/02-climate-aupl8245-cmyk/blob/main/Climate%20Coding%20Challenge%2C%20Part%201!.ipynb)  
+- [Part 2](https://github.com/earthlab-education/02-climate-aupl8245-cmyk/blob/main/Climate%20Coding%20Challenge%2C%20Part%202!.ipynb)  
+- [Part 3](https://github.com/earthlab-education/02-climate-aupl8245-cmyk/blob/main/Climate%20Coding%20Challenge%2C%20Part%203!.ipynb)  
+- [Part 4](https://github.com/earthlab-education/02-climate-aupl8245-cmyk/blob/main/Climate%20Coding%20Challenge%2C%20Part%204!.ipynb)  
+- [Part 5](https://github.com/earthlab-education/02-climate-aupl8245-cmyk/blob/main/Climate%20Coding%20Challenge%2C%20Part%205!.ipynb)
+
 
