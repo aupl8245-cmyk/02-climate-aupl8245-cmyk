@@ -48,5 +48,5 @@ This 5-part project analyzes climate change in Boulder, CO using Python.
 - [Part 2](https://github.com/aupl8245-cmyk/02-climate-aupl8245-cmyk/blob/main/Climate%20Coding%20Challenge,%20Part%202.ipynb)  
 - [Part 3](https://github.com/aupl8245-cmyk/02-climate-aupl8245-cmyk/blob/main/Climate%20Coding%20Challenge,%20Part%203.ipynb)  
 - [Part 4](https://github.com/aupl8245-cmyk/02-climate-aupl8245-cmyk/blob/main/Climate%20Coding%20Challenge,%20Part%204.ipynb)  
-- [Part 5](https://github.com/aupl8245-cmyk/)
+- [Part 5](https://github.com/aupl8245-cmyk/02-climate-aupl8245-cmyk/blob/main/Climate%20Coding%20Challenge,%20Part%205.ipynb)
 
